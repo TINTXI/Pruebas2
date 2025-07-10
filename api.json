@@ -1,5 +1,13 @@
 [
     {
+        "name": "Dazn 1",
+        "id": "dazn",
+        "logo": "https://sporttroll-web.netlify.app/DAZN1.jpg",
+        "link": "http://34.175.41.50:8000/pid/d0c01ac6d238bd687f1236b41ec018ac4c289653/stream.mp4",
+        "referer": "",
+        "origin": ""
+    },
+    {
         "name": "Star Sports 1",
         "id": "star1in",
         "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",
